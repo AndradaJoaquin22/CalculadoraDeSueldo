@@ -1,0 +1,8 @@
+C:\Users\Lautaro\Desktop\csharp\CalcularSueldo\CalcularSueldo\bin\Debug\CalcularSueldo.exe.config
+C:\Users\Lautaro\Desktop\csharp\CalcularSueldo\CalcularSueldo\bin\Debug\CalcularSueldo.exe
+C:\Users\Lautaro\Desktop\csharp\CalcularSueldo\CalcularSueldo\bin\Debug\CalcularSueldo.pdb
+C:\Users\Lautaro\Desktop\csharp\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\csharp\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lautaro\Desktop\csharp\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\csharp\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.exe
+C:\Users\Lautaro\Desktop\csharp\CalcularSueldo\CalcularSueldo\obj\Debug\CalcularSueldo.pdb
